@@ -8,6 +8,6 @@ Soy Ingeniero de Software, certificado como Scrum Master y estoy en la industria
 
 Desarrollo en javascript, lo que me permite como fullstack desarrollar en ReactJS y NodeJS.
 
-Me gusta mucho crecer continuamente y actualmente estoy aprendiendo Golang y React Native.
+Me gusta mucho crecer continuamente y actualmente estoy estudiando RoR y AWS Technical Essentials.
 
 Este es mi [linkedin](https://www.linkedin.com/in/diegofnaranjo/).
