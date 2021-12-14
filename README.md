@@ -6,8 +6,9 @@ He líderado el desarrollo de productos SaaS con arquitecturas basadas en micros
 
 Soy Ingeniero de Software, certificado como Scrum Master y estoy en la industria tech desde hace unos 12 años.
 
-Desarrollo en javascript, lo que me permite como fullstack desarrollar en ReactJS y NodeJS.
+Apasionado por javascript, lo que me permite como fullstack desarrollar en ReactJS y NodeJS.
 
 Me gusta mucho crecer continuamente y actualmente estoy estudiando RoR y AWS Technical Essentials.
 
 Este es mi [linkedin](https://www.linkedin.com/in/diegofnaranjo/).
+![El gran libuv](http://docs.libuv.org/en/v1.x/_static/logo.png)
